@@ -90,6 +90,60 @@ body, nav, main {
     margin-bottom: 20px;
 }
 
+.info_formacao h3 {
+    color: #555;
+} 
+
+/* Portfólio */
+
+#portfolio {
+    background-color: #EDEAEA;
+    padding: 30px 60px;
+}
+
+.titulo_portfolio {
+    color: #49bfb3;
+    font-size: 30px;
+}
+
+.conteudo_portfolio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.info_portfolio {
+    width: 100%;
+    max-width: 600px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.info_portfolio h3 {
+    color: #555;
+}
+
+#rodape {
+    background-color: #5a53b8;
+    padding: 38px;
+    color: white;
+}
+
+.rodape_item span a {
+    color: white;
+}
+
+.rodape_item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.rodape_icon {
+    width: 25px;
+    margin-right: 10px;
+}
+
 .segundo-paragrafo {
     font-size: 16px;
     line-height: 22.4px;
